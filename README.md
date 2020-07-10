@@ -1,9 +1,7 @@
 ### Hi there 👋
  I'm a Data Analyst and Technical writer, I'm currently trying to get better at Software Engineering. I'm passionate about learning, sharing knowledge and writing.
 <!--
-**motunrayokoyejo/motunrayokoyejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**motunrayokoyejo/motunrayokoyejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM @motushbae on twitter
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy fashion designing when I'm not coding.
--->
+
 
