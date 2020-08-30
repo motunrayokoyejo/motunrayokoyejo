@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on Software Development, Machine Learning and Technical Writing
-- 🤔 I’m looking for an internship on software engineering
+- 🤔 I’m looking for an entry role in software engineering
 - 💬 Ask me about Data analysis, Technical Writing and Web development
 - 📫 How to reach me: DM @motushbae on twitter
 - 😄 Pronouns: she/her
