@@ -1,6 +1,3 @@
+Hi! I’m a Backend Engineer with a knack for building reliable, high-performing systems. I specialize in backend technologies like PHP, Laravel, Python, Javascript and AWS, focusing on creating solutions that scale and solve real-world problems efficiently.
 
-As a software engineer, I create robust and efficient applications that solve complex problems. With over 4+ years of experience working in the industry, I strongly understand software design patterns and development principles.
-
-If you're looking for a backend software engineer who is technically skilled and passionate about collaboration and networking, let's connect and see how we can work together to create innovative solutions that meet your needs. 
-
-
+I believe in using technology to simplify complex challenges, whether it's optimizing performance, improving security, or integrating seamless APIs. Let’s connect if you need a backend expert who’s all about delivering impactful and maintainable solutions.
